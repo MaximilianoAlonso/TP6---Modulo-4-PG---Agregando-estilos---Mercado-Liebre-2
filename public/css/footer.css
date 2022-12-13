@@ -1,0 +1,16 @@
+footer{
+    background-color: white;
+    margin: 10px
+}
+footer section article{
+    text-align: center;
+    padding:  50px 100px 
+
+}
+.icon-footer{
+    font-size: 2em;
+    color: #1259c3;
+    margin-bottom: 10px;
+}
+
+.copyright{ text-align: center  ;font-size: 18px;}
